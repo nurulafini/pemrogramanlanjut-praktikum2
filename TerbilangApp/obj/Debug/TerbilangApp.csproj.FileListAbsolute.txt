@@ -1,0 +1,13 @@
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojAssemblyReference.cache
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.cache
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.CoreCompileInputs.cache
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.CopyComplete
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+C:\Users\asus-pc\source\repos\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
